@@ -4,18 +4,18 @@ Jinan University Beamer Color Theme
 
 暨南大学 Beamer 颜色主题
 
-$\LaTeX$ Beamer presentation color theme derived from the [MIT Theme](https://github.com/jtriley/mit-beamer).
+LaTeX Beamer presentation color theme derived from the [MIT Theme](https://github.com/jtriley/mit-beamer).
 
 **NOTE:** This is just a beamer color scheme. It can work with other beamer themes.
 
-这只是一个 LaTeX Beamer 配色方案。它可以与其它 LaTeX 主题一起使用。
+**注意：** 这只是一个 LaTeX Beamer 配色方案。它可以与其它 LaTeX 主题一起使用。
 
 ## Preview
 
-[Preview Link](slides.pdf)
+[Click here to Preview PDF](slides.pdf)
 
 <details>
-  <summary>Preview Image</summary>
+  <summary>Click here to view screenshots</summary>
 
 ![](preview/main.png)
 ![](preview/last.png)
